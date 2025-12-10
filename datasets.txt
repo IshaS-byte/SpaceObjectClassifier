@@ -1,0 +1,6 @@
+https://www.kaggle.com/datasets/akhileshravi/nebula-images
+https://www.kaggle.com/datasets/samuelcortinhas/sports-balls-multiclass-image-classification
+https://www.kaggle.com/datasets/heyitsfahd/planets
+https://www.kaggle.com/datasets/emirhanai/planets-and-moons-dataset-ai-in-space
+https://datalab.astro.ucla.edu/galaxiesml.html
+https://images.cv/dataset/star-image-classification-dataset
