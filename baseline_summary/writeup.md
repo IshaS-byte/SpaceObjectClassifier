@@ -1,0 +1,1 @@
+baseline, improve baseline, classical, CNN articheture lab 9 or 10
