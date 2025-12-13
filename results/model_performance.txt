@@ -1,6 +1,6 @@
 MODEL PERFORMANCE
-Test Accuracy: 95.9%
-Test Loss: 0.3231
+Test Accuracy: 93.61%
+Test Loss: 1.7787
 
 Classes:
   0: galaxy
@@ -14,29 +14,29 @@ PER-CLASS PERFORMANCE
 ============================================================
 
 galaxy:
-  Samples: 108
-  Correct: 108
+  Samples: 1000
+  Correct: 1000
   Accuracy: 100.00%
 
 nebula:
-  Samples: 1567
-  Correct: 1488
-  Accuracy: 94.96%
+  Samples: 1000
+  Correct: 996
+  Accuracy: 99.60%
 
 planet:
-  Samples: 643
-  Correct: 641
-  Accuracy: 99.69%
+  Samples: 1000
+  Correct: 796
+  Accuracy: 79.60%
 
 star:
-  Samples: 17
-  Correct: 0
-  Accuracy: 0.00%
+  Samples: 1057
+  Correct: 1000
+  Accuracy: 94.61%
 
 unknown:
-  Samples: 347
-  Correct: 335
-  Accuracy: 96.54%
+  Samples: 1000
+  Correct: 942
+  Accuracy: 94.20%
 
 CONFIGURATION
 Image Size: 64x64

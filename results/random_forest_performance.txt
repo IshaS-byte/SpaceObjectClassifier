@@ -1,5 +1,5 @@
 RANDOM FOREST MODEL PERFORMANCE
-Test Accuracy: 91.61%
+Test Accuracy: 89.68%
 
 Classes:
   0: galaxy
@@ -13,29 +13,29 @@ PER-CLASS PERFORMANCE
 ============================================================
 
 galaxy:
-  Samples: 108
-  Correct: 108
-  Accuracy: 100.00%
+  Samples: 1000
+  Correct: 987
+  Accuracy: 98.70%
 
 nebula:
-  Samples: 1567
-  Correct: 1391
-  Accuracy: 88.77%
+  Samples: 1000
+  Correct: 950
+  Accuracy: 95.00%
 
 planet:
-  Samples: 643
-  Correct: 643
-  Accuracy: 100.00%
+  Samples: 1000
+  Correct: 796
+  Accuracy: 79.60%
 
 star:
-  Samples: 17
-  Correct: 0
-  Accuracy: 0.00%
+  Samples: 1057
+  Correct: 958
+  Accuracy: 90.63%
 
 unknown:
-  Samples: 347
-  Correct: 315
-  Accuracy: 90.78%
+  Samples: 1000
+  Correct: 844
+  Accuracy: 84.40%
 
 MODEL CONFIGURATION
 Image Size: 64x64

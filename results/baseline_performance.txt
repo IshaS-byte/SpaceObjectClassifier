@@ -1,6 +1,6 @@
 BASELINE MODEL PERFORMANCE
-Test Accuracy: 90.9%
-Test Loss: 0.3589
+Test Accuracy: 93.57%
+Test Loss: 1.2784
 
 Classes:
   0: galaxy
@@ -14,29 +14,29 @@ PER-CLASS PERFORMANCE
 ============================================================
 
 galaxy:
-  Samples: 108
-  Correct: 108
-  Accuracy: 100.00%
+  Samples: 1000
+  Correct: 998
+  Accuracy: 99.80%
 
 nebula:
-  Samples: 1567
-  Correct: 1372
-  Accuracy: 87.56%
+  Samples: 1000
+  Correct: 980
+  Accuracy: 98.00%
 
 planet:
-  Samples: 643
-  Correct: 632
-  Accuracy: 98.29%
+  Samples: 1000
+  Correct: 795
+  Accuracy: 79.50%
 
 star:
-  Samples: 17
-  Correct: 0
-  Accuracy: 0.00%
+  Samples: 1057
+  Correct: 993
+  Accuracy: 93.95%
 
 unknown:
-  Samples: 347
-  Correct: 326
-  Accuracy: 93.95%
+  Samples: 1000
+  Correct: 966
+  Accuracy: 96.60%
 
 CONFIGURATION
 Image Size: 64x64
